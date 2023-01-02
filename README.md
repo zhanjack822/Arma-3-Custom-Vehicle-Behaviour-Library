@@ -2,6 +2,7 @@
 A collection of sqf scripts made for enhancing the player experience by adding functionalities such as electronic counter measures (ECM) and active protection systems without the need for installing fully fledged mods
 
 ## [License](https://github.com/zhanjack822/Arma-3-Custom-Vehicle-Behaviour-Library/blob/master/LICENSE)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 ```
     Arma 3 Custom Vehicle Behaviour Library adds sqf scripts to add various
     functionalities to vehicles reminiscent of real world capabilities which
