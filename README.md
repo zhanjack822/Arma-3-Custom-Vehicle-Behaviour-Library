@@ -3,10 +3,10 @@ A collection of sqf scripts made for enhancing the player experience by adding f
 
 ## [License](https://github.com/zhanjack822/Arma-3-Custom-Vehicle-Behaviour-Library/blob/master/LICENSE)
 ```
-	Arma 3 Custom Vehicle Behaviour Library adds sqf scripts to add various
-	functionalities to vehicles reminiscent of real world capabilities which
-	can be loaded in the Arma 3 Mission Editor without needing to instal a
-	full mod.
+    Arma 3 Custom Vehicle Behaviour Library adds sqf scripts to add various
+    functionalities to vehicles reminiscent of real world capabilities which
+    can be loaded in the Arma 3 Mission Editor without needing to install a
+    full mod.
     Copyright (C) 2023  (Jack) Kuei Hung Zhang
 
     This program is free software: you can redistribute it and/or modify
